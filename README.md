@@ -14,7 +14,7 @@ They'd like a data engineer to create a Postgres database with tables designed t
 
 ### Project Structure
 ```
-postgres-data-modeling
+NanoDegree-Data-Engineering-Project-1-Data-Modeling-with-Postgresql
 │   README.md # Project description
 │   requirements.txt # Python packages required to execute scripts
 └───data # The datasets
@@ -134,5 +134,5 @@ Check results
 jupyter notebook  # launch jupyter notebook app
 
 The notebook interface will appear in a new browser window or tab.
-Navigate to src/notebooks/test.ipynb and run the code cells
+Navigate to src/test.ipynb and run the code cells
 ```
