@@ -14,7 +14,7 @@ They'd like a data engineer to create a Postgres database with tables designed t
 
 ### Project Structure
 ```
-postgres-data-modeling
+NanoDegree-Data-Engineering-Project-1-Data-Modeling-with-Postgresql
 │   README.md # Project description
 │   requirements.txt # Python packages required to execute scripts
 └───data # The datasets
