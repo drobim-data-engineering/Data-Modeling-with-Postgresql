@@ -17,7 +17,7 @@ They'd like a data engineer to create a Postgres database with tables designed t
 postgres-data-modeling
 │   README.md # Project description
 │   requirements.txt # Python packages required to execute scripts
-└───data # The dataset
+└───data # The datasets
 |   |               
 │   └───log_data
 │   |   │  ...
