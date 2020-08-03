@@ -134,5 +134,5 @@ Check results
 jupyter notebook  # launch jupyter notebook app
 
 The notebook interface will appear in a new browser window or tab.
-Navigate to src/notebooks/test.ipynb and run the code cells
+Navigate to src/test.ipynb and run the code cells
 ```
