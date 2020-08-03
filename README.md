@@ -72,7 +72,6 @@ postgres-data-modeling
 ### Database Schema
 
 Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis. 
-
 This includes the following tables.
 
 ### Fact Table
