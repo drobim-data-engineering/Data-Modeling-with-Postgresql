@@ -28,6 +28,9 @@ postgres-data-modeling
 |   |  sql_queries.py   # Definition of all sql queries
 ```
 
+### Requirements for running locally
+- Python3 
+
 ### Datasets
 
 - **Song dataset**: It's a subset of real data from the [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/). 
