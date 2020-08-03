@@ -28,9 +28,10 @@ postgres-data-modeling
 |   |  sql_queries.py   # Definition of all sql queries
 ```
 
-### Data
+### Datasets
 
-- **Song dataset**: It's a subset of real data from the [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/) . Each file is in JSON format and contains metadata about a song and the artist of that song
+- **Song dataset**: It's a subset of real data from the [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/). 
+Each file is in JSON format and contains metadata about a song and the artist of that song
 ```
 {
     "num_songs":1,
@@ -72,6 +73,7 @@ postgres-data-modeling
 ### Database Schema
 
 Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis. 
+
 This includes the following tables.
 
 ### Fact Table
