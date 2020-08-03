@@ -1,7 +1,7 @@
 # NanoDegree Data Engineering 
 
 ## Author 
-Deivid Robim [linkedin](https://www.linkedin.com/in/deivid-robim-200b3330/)
+Deivid Robim [Linkedin](https://www.linkedin.com/in/deivid-robim-200b3330/)
 
 ### Project 1: Data Modeling with Postgresql
 
