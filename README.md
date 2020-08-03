@@ -125,7 +125,7 @@ Run scripts
 ```
 cd src/
 python -m create_tables.py  # create schema
-python -m etl.py            # option 1: load data one file per commit
+python -m etl.py            # load data
 ```
 
 Check results
