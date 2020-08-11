@@ -15,7 +15,7 @@ create table if not exists songplays (
     ,user_id int
     ,level varchar
     ,song_id varchar
-    ,artist_id varchar 
+    ,artist_id varchar
     ,session_id int
     ,location varchar
     ,user_agent varchar

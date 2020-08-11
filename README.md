@@ -14,7 +14,7 @@ They'd like a data engineer to create a Postgres database with tables designed t
 
 ### Project Structure
 ```
-NanoDegree-Data-Engineering-Project-1-Data-Modeling-with-Postgresql
+Data-Modeling-with-Postgresql
 │   README.md # Project description
 │   requirements.txt # Python packages required to execute scripts
 └───data # The datasets
@@ -106,12 +106,12 @@ This includes the following tables.
 
 Clone repository to local machine
 ```
-git clone https://github.com/deivid-robim/NanoDegree-Data-Engineering-Project-1-Data-Modeling-with-Postgresql.git
+git clone https://github.com/drobim-data-engineering/Data-Modeling-with-Postgresql.git
 ```
 
 Change directory to local repository
 ```
-cd NanoDegree-Data-Engineering-Project-1-Data-Modeling-with-Postgresql
+cd Data-Modeling-with-Postgresql
 ```
 
 Create Python Virtual Environment
@@ -134,5 +134,5 @@ Check results
 jupyter notebook  # launch jupyter notebook app
 
 The notebook interface will appear in a new browser window or tab.
-Navigate to src/test.ipynb and run the code cells
+Navigate to src/validation.ipynb and run the code cells
 ```
