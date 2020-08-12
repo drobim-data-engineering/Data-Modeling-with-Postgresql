@@ -1,12 +1,12 @@
-# NanoDegree Data Engineering 
+# Data Engineering NanoDegree
 
-## Author 
+## Author
 Deivid Robim [Linkedin](https://www.linkedin.com/in/deivid-robim-200b3330/)
 
 ### Project 1: Data Modeling with Postgresql
 
-A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. 
-The analytics team is particularly interested in understanding what songs users are listening to. 
+A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app.
+The analytics team is particularly interested in understanding what songs users are listening to.
 
 Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
@@ -18,13 +18,13 @@ Data-Modeling-with-Postgresql
 │   README.md # Project description
 │   requirements.txt # Python packages required to execute scripts
 └───data # The datasets
-|   |               
+|   |
 │   └───log_data
 │   |   │  ...
 |   └───song_data
 │       │  ...
-│   
-└───src # Source code      
+│
+└───src # Source code
 │   |  etl.ipynb        # ETL helper notebook
 |   |  test.ipynb       # Psql queries notebook
 │   │  create_tables.py # Schema creation script
@@ -33,11 +33,11 @@ Data-Modeling-with-Postgresql
 ```
 
 ### Requirements for running locally
-- Python3 
+- Python3
 
 ### Datasets
 
-- **Song dataset**: It's a subset of real data from the [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/). 
+- **Song dataset**: It's a subset of real data from the [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/).
 Each file is in JSON format and contains metadata about a song and the artist of that song
 ```
 {
@@ -79,7 +79,7 @@ Each file is in JSON format and contains metadata about a song and the artist of
 ```
 ### Database Schema
 
-Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis. 
+Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis.
 
 This includes the following tables.
 
